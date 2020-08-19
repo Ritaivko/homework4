@@ -17,6 +17,16 @@ body {
     text-align: center;
 }
 
+.content {
+    position: relative;
+    width: 100%;
+    bottom: 0;
+    margin: 5vh;
+    font-style: oblique;
+    font-weight: bold;
+    text-align: center;
+}
+
 .footer {
     position: fixed;
     left: 0; bottom: 0;
